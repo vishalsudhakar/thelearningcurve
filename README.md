@@ -1,6 +1,6 @@
 # Journal Club – Paper & Speaker Tracking
 
-Welcome to the Journal Club repository!  
+Welcome to The Learning Curve journal club repository!  
 We use this space to track suggested papers, proposed speakers, voting, and upcoming sessions.
 
 This repo complements our Google Form submission system.  
