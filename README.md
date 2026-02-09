@@ -19,7 +19,7 @@ Use the form to propose:
 (Form link will be added here once available.)
 
 ### **Step 2 — View Suggestions on GitHub**
-All submissions appear as **Issues**:
+All submissions will be added as **Issues**:
 
 - **Paper Suggestions** → labeled `paper`  
 - **Speaker Suggestions** → labeled `speaker`
