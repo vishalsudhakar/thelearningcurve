@@ -33,6 +33,7 @@ You can:
 
 ## Voting
 To vote on a suggestion, simply react to the Issue with:
+
 👍 = strong interest  
 👀 = neutral / curious  
 ❌ = prefer not
