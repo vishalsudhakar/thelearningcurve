@@ -16,7 +16,7 @@ Use the form to propose:
 - Speakers you'd like to invite  
 - Any ideas for journal club improvements  
 
-(Form link will be added here once available.)
+Form link: https://forms.gle/dqtPiJM9ohpNhQwx6
 
 ### **Step 2 — View Suggestions on GitHub**
 All submissions will be added as **Issues**:
